@@ -1,0 +1,13 @@
+
+body{
+    background-color: royalblue;
+}
+.borda{
+    border: 1px solid rgb(200, 50, 119);
+    font-size: 40px; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    border-radius: 12px;
+    background-color: orange;
+    margin-top: 130px;
+    margin-left: 600px;
+}

@@ -1,0 +1,9 @@
+body{
+    background-color: teal;
+}
+div{
+    border: 1px solid black;
+    border-radius: 12px;
+    width: 423px;
+    padding-left: 5px;
+}
